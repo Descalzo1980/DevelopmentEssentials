@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">DevelopmentEssentials</string>
+    <string name="convert_string">Convert</string>
+    <string name="dollars" translatable="false">dollars</string>
+    <string name="no_value_string" translatable="false">No Value</string>
+    <string name="changing">Enter how many dollars you want to change</string>
+    <string name="euro_sing" translatable="false">€</string>
+</resources>

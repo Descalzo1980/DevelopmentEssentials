@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevelopmentEssentials</string>
+    <string name="dollars">Dolar</string>
+    <string name="no_value_string">Değersiz</string>
+    <string name="button">Düğme</string>
+    <string name="convert_string" translatable="false">Dönüştürmek</string>
+    <string name="changing" translatable="false">kaç doları değiştirmek istediğinizi girin</string>
+</resources>
